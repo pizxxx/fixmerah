@@ -1,0 +1,9 @@
+{
+  "name": "fixmerah-api",
+  "version": "1.0.0",
+  "description": "API untuk send email fixmerah",
+  "main": "api/send-email.js",
+  "dependencies": {
+    "nodemailer": "^6.9.7"
+  }
+}
